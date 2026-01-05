@@ -1,7 +1,7 @@
 # The Witcher – Book Collection & Reading Companion
 
 <div align="center">
-  <img src="banner.png" width="600">
+  <img src="banner.png" width="750">
 </div>
 
 This repository is essentially me geeking out over *The Witcher* book series. It serves as a collection of content aimed at making *The Witcher* freely accessible and at offering extras that make the reading experience more enjoyable.
