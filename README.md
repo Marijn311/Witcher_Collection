@@ -15,3 +15,7 @@ When I read books, I often find it difficult to keep track of who is who, especi
 
 ## Illustrations
 I find it a shame that adult books rarely include illustrations. There is a lot of excellent fan art that stays true to the books and is enjoyable to view while reading. After finishing a chapter, I like to treat myself to illustrations depicting the events I have just read about. Searching for this kind of content online takes effort and often exposes you to spoilers. That is why I am creating **section 5** for your, and my, pleasure and convenience. This section contains book-accurate illustrations of the events of each chapter, allowing you to experience The Witcher books as if they were fully illustrated. I started by collecting and ordering all of Denis Gordeev’s illustrations, the classic black-and-white ones, and I plan to add many more from a wide range of sources. This is a lot of work and will remain a work in progress, probably forever. If you would like to help, please open an issue on GitHub.
+
+
+## Other Resources
+Their are plenty of other cool Witcher related sources which don't really fit in the other sections but do deserve a mention.  
