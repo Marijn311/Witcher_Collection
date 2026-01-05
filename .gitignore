@@ -1,1 +1,18 @@
+# Work in progress files
 work_in_progress/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
