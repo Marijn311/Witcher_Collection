@@ -1,0 +1,2 @@
+This folder contains all the witcher books as epub files. Epub files can be used e-reader (apps). 
+There are some free ereader apps to open these files and read the books on your phone/table/pc.
