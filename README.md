@@ -18,4 +18,4 @@ I find it a shame that adult books rarely include illustrations. There is a lot 
 
 
 ## Other Resources
-Their are plenty of other cool Witcher related sources which don't really fit in the other sections but do deserve a mention.  
+There are plenty of other Witcher-related resources that don't fit neatly into the previous sections but deserve mention. This section includes, amongst others; concept artbooks that capture the atmosphere of the Witcher universe without depicting specific book events; A link to the Witcher wiki which is particularly useful if you want additional information about characters, locations, alternative summaries, or interesting trivia about the series; the artwork for all Gwent cards; link to fanart stations.
